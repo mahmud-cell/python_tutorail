@@ -1,4 +1,4 @@
-x = ["Mahmud","is name","My"]
+x = ["Mahmud","is","name","My"]
 x.sort(reverse= True)
 print(x)
 a = sorted(x,reverse= True)

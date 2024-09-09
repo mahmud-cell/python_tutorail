@@ -1,2 +1,2 @@
 a = {"Car": 1}
-print(a)
+print(type(a))

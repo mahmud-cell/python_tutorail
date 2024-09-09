@@ -1,0 +1,8 @@
+# # a = ("hello" , 12 , True , [1,2])
+# # my_tuple = (10,20,30,"Hello",50)
+# # b = my_tuple[3]
+# # print(b)  
+# #           negative indexes 
+# my_tuple = (10,20,30,40,50)
+# a = my_tuple [-1]
+# print(a) 
